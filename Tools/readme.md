@@ -20,3 +20,6 @@
 ### SAP Tools
 * CloudFoundry
 * BTP CLI
+
+
+* [Install Tools for Deployment](https://developers.sap.com/tutorials/cap-operator-02-tools.html)
