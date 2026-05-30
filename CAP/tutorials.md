@@ -3,6 +3,7 @@
 * [Introduction to Application Development Using CAP](https://developers.sap.com/tutorials/introduction.html)
 * [Introduction to Application Development Using CAP](https://developers.sap.com/tutorials/introduction.html)
 * [Introduction to Remote Service Connectivity](https://developers.sap.com/tutorials/remote-service-intro.html)
+* [CAP-HANA](https://sap-samples.github.io/cap-hana-exercises-codejam/slides/hana)
 
 ### Nodejs  
 * [Create a CAP Project with SAP Business Application Studio](https://developers.sap.com/tutorials/btp-cap-beginner-bas-wizard.html)
